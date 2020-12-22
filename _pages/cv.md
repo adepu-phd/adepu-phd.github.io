@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Information Systems Technology and Design, Singapore University of Technology and Design
-* M.Tech. in Computer Science and Engineering, National Institute of Technology, Rourkela, India
+* M.Tech. in Computer Science and Engineering, National Institute of Technology
 * B.S. in Computer Science and Engineering, Kakatiya University
 
 
