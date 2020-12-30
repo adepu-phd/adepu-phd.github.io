@@ -24,11 +24,11 @@ Work experience
   * Supervisor: Professor Eunsuk Kang and Professor David Garlan
 
 *  September 2016 to Jan 2021: Teaching Assistant in Information Systems Technology and Design@SUTD
-  * 50.002 Computation Structures: Sept - Dec 2017.
-  * 50.003 Elements of Software Construction: Jan - April 2018.
-  * 50.577 Cyber Physical Systems Seucrity: Jan - April 2018, 2019, 2020.
+    * 50.002 Computation Structures: Sept - Dec 2017.
+    * 50.003 Elements of Software Construction: Jan - April 2018.
+    * 50.577 Cyber Physical Systems Seucrity: Jan - April 2018, 2019, 2020.
 
-  
+
   
 <!--   
 Skills
