@@ -18,16 +18,19 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2019 to Jan 2020: Visiting PhD student 
+  * Carnegie Mellon University
+  * Duties included: Conducting Research on formal methods to CPS security
+  * Supervisor: Professor Eunsuk Kang and Professor David Garlan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*  September 2016 to Jan 2021: Teaching Assistant in Information Systems Technology and Design@SUTD
+  * 50.002 Computation Structures: Sept - Dec 2017.
+  * 50.003 Elements of Software Construction: Jan - April 2018.
+  * 50.577 Cyber Physical Systems Seucrity: Jan - April 2018, 2019, 2020.
+
   
+  
+<!--   
 Skills
 ======
 * Skill 1
@@ -35,7 +38,7 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
