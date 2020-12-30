@@ -96,8 +96,8 @@ Service and leadership
 SBES 2017; HASE 2017; COMPSAC 2016; CPS-SPC 2016,2018,2019; SG-CRC 2016.
 
 * MS Thesis Supervised:
-  * Nataraj Subramaniam Sathyarajan “Damage Control in Industrial Control Systems" MSSD 2020
-  * Dheenadhayalan Rathinasamy , titled “Online Extension and Performance Study of TABOR: A Machine Learning Model for Anomaly Detection in Industrial Control Systems” MSSD 2020
+  * Nataraj Subramaniam Sathyarajan, titled “Damage Control in Industrial Control Systems" MSSD 2020
+  * Dheenadhayalan Rathinasamy, titled “Online Extension and Performance Study of TABOR: A Machine Learning Model for Anomaly Detection in Industrial Control Systems” MSSD 2020
  
 
 * Supervised Undergraduate Student Internships:
