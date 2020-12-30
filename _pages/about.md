@@ -9,9 +9,23 @@ redirect_from:
 ---
 
 
-I am a President Graduate Fellow in the Information Systems Technology and Design pillar at the Singapore University of Technology and Design (SUTD) under the supervision of Professor [Aditya Mathur](https://www.cs.purdue.edu/people/faculty/apm.html), Professor [Jianying Zhou](http://jianying.space/). During the Ph.D., I worked on the Cyber Physical Systems (CPS) security at the iTrust Labs and testbeds in SUTD. I got an opportunity to work with Professor [Eunsuk Kang](https://www.isri.cmu.edu/people/core-faculty/kang-eunsuk.html) and Professor [David Garlan](https://www.cs.cmu.edu/~garlan/) in the School of Computer Science at Carnegie Mellon University (CMU) during my Ph.D. exchange program. During my stay at CMU, I was associated with [CyLab](https://www.cylab.cmu.edu/). I received a Masters in Computer Science and Engineering from National Institute of Technology. 
+I am a President Graduate Fellow in the Information Systems Technology and Design pillar at the Singapore University of Technology and Design (SUTD) under the supervision of Professor [Aditya Mathur](https://www.cs.purdue.edu/people/faculty/apm.html), Professor [Jianying Zhou](http://jianying.space/). I am also part of iTrust, centre for research in cyber security, where I have been involving in multiple Cyber Physical Systems (CPS) security projects.
+I got an opportunity to work with Professor [Eunsuk Kang](https://www.isri.cmu.edu/people/core-faculty/kang-eunsuk.html) and Professor [David Garlan](https://www.cs.cmu.edu/~garlan/) in the School of Computer Science at Carnegie Mellon University (CMU) during my Ph.D. exchange program. During my stay at CMU, I was associated with [CyLab](https://www.cylab.cmu.edu/). I received a Masters in Computer Science and Engineering from National Institute of Technology. 
 
 Research Overview
 ======
-Yet to come...
 
+
+My research interests are in the security of Cyber Physical Systems (CPS), Industrial Control Systems and Critical Infrastructure. My research investigates  the  cyber  physical  attack  models, impact  of  attacks, detection and  mitigation on CPS. My research takes a multidisciplinary approach to tackle the security issues associated with CPS which includescritical infrastructures such as water treatment,electrical power grid,autonomous vehicles, digital manufacturing, and Internet of Things. Security is considered as much of a computer science subject, but it really requires expertise across several domains. In particular, Ihave excelled inapplying formal methods, control systems, machine learning and cyber security fundamentals for advancing CPS securityfor greater impacts. 
+
+
+<!-- ### <span style="color:red"> Looking for: </span> -->
+
+<div class="special-class" markdown="1" style="font-size: 30px">
+	I am looking for collaborations with an interest in security 
+	related to Cyber Physical Systems. 
+</div>
+
+<div class="special-class" markdown="1" style="font-size: 30px">
+	Looking for full time opportunities in CPS security
+</div>
