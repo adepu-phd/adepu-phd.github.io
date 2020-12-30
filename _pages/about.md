@@ -22,10 +22,10 @@ My research interests are in the security of Cyber Physical Systems (CPS), Indus
 <!-- ### <span style="color:red"> Looking for: </span> -->
 
 <div class="special-class" markdown="1" style="font-size: 30px">
-	I am looking for collaborations with an interest in security 
-	related to Cyber Physical Systems. 
+	I am looking for collaborations in  
+	 Cyber Physical Systems Security. 
 </div>
 
 <div class="special-class" markdown="1" style="font-size: 30px">
-	Looking for full time opportunities in CPS security
+	Looking for full time opportunities in Cyber Physical Systems security.
 </div>
