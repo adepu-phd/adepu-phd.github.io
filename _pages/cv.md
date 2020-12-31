@@ -112,7 +112,7 @@ SBES 2017; HASE 2017; COMPSAC 2016; CPS-SPC 2016,2018,2019; SG-CRC 2016.
   * Shaun Chua (Nanyang Polytechnic, Singapore)
   * Clive Goh (Nanyang Polytechnic, Singapore)
   * Nur Ramadhan Bin JUMALI (Nanyang Polytechnic, Singapore)
-  * Sai Sidharth Patlolla (Missouri university of Science and Technology, USA)
+  * Sai Sidharth Patlolla (Missouri university of Science and Technology, USAA)
   * Koyena Pal (GIIS, Singapore)
   * Gyanendra Mishra (BITS India) 
   * Rahi Sheth (Dhirubhai Ambani Institute of Information and Communication Technology)
