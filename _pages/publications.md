@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Publications and Impact"
 permalink: /publications/
 author_profile: true
 ---
@@ -14,3 +14,6 @@ You can find all of my articles on [Google Scholar](https://scholar.google.com/c
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Impact:
+======
