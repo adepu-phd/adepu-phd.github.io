@@ -25,7 +25,7 @@ My research interests are in the security of Cyber Physical Systems (CPS), Indus
 Awards:
 ======
 
-* Singapore National Blockchain Challenge Gold medalaward for ‘BlockOps’ in 2019.
+* Singapore National Blockchain Challenge <b> Gold medal</b> award for ‘BlockOps’ in 2019.
 * ASEAN ICTGold medal award in research and development, 2018.
 * Best paper award in SecCPS workshop 2017.
 * Best student paper award in HASE 2017.
@@ -35,7 +35,8 @@ Awards:
 
 
 
-<div class="special-class" markdown="1" style="font-size: 30px">
+
+<div class="special-class" markdown="1" style="font-size: 40px">
 	I am looking for collaborations in Cyber Physical Systems Security. 
 </div>
 
