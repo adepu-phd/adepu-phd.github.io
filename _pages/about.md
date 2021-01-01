@@ -15,8 +15,7 @@ I got an opportunity to work with Professor [Eunsuk Kang](https://www.isri.cmu.e
 Research Overview
 ======
 
-
-My research interests are in the security of Cyber Physical Systems (CPS), Industrial Control Systems and Critical Infrastructure. My research investigates  the  [cyber  physical  attack  models](https://ieeexplore.ieee.org/abstract/document/7552024), [impact  of  attacks](https://ieeexplore.ieee.org/abstract/document/7423145), [detection](https://ieeexplore.ieee.org/abstract/document/8486707) and  mitigation on CPS. My research takes a multidisciplinary approach to tackle the security issues associated with CPS which includescritical infrastructures such as water treatment,electrical power grid,autonomous vehicles, digital manufacturing, and Internet of Things. Security is considered as much of a computer science subject, but it really requires expertise across several domains. In particular, I have excelled inapplying formal methods, control systems, machine learning and cyber security fundamentals for advancing CPS security for greater impacts. 
+My research interests are in the security of Cyber Physical Systems (CPS), Industrial Control Systems and Critical Infrastructure. My research investigates  the  [cyber  physical  attack  models](https://ieeexplore.ieee.org/abstract/document/7552024), [impact  of  attacks](https://ieeexplore.ieee.org/abstract/document/7423145), [detection](https://ieeexplore.ieee.org/abstract/document/8486707) and  mitigation on CPS. My research takes a multidisciplinary approach to tackle the security issues associated with CPS which includescritical infrastructures such as water treatment,electrical power grid,autonomous vehicles, digital manufacturing, and Internet of Things. 
 
 
 <!-- ### <span style="color:red"> Looking for: </span> -->
@@ -28,7 +27,7 @@ My research interests are in the security of Cyber Physical Systems (CPS), Indus
 
 ### <span style="color:red"> Awards: </span>
 
-<div class="special-class" markdown="1" style="font-size: 30px">
+<div class="special-class" markdown="1" style="font-size: 20px">
 	* Singapore National Blockchain ChallengeGold medalaward for ‘BlockOps’ in 2019.
 	* ASEAN ICTGold medalaward in research and development, 2018.
 	* Best paperaward in SecCPS workshop 2017.
