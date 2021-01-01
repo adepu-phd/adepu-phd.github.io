@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-You can find full CV [here](https://adepu-phd.github.io/files/Sridhar_Adepu_CV.pdf):  
+You can find full CV [here](https://adepu-phd.github.io/files/Sridhar_Adepu_CV.pdf):
+  
 Education
 ======
 * Ph.D in Information Systems Technology and Design, Singapore University of Technology and Design
@@ -99,8 +100,8 @@ SBES 2017; HASE 2017; COMPSAC 2016; CPS-SPC 2016,2018,2019; SG-CRC 2016.
 * MS Thesis Supervised:
   * Nataraj Subramaniam Sathyarajan, titled “Damage Control in Industrial Control Systems" MSSD 2020
   * Dheenadhayalan Rathinasamy, titled “Online Extension and Performance Study of TABOR: A Machine Learning Model for Anomaly Detection in Industrial Control Systems” MSSD 2020
-  * Sai Sidharth Patlolla (Missouri university of Science and Technology, USA)
-  * Muhammad Azmi Umer (DHA Suffa University)
+  * Sai Sidharth Patlolla (Missouri university of Science and Technology, USA), 2017
+  * Muhammad Azmi Umer (DHA Suffa University), 2016
  
 
 * Supervised Undergraduate Student Internships:
