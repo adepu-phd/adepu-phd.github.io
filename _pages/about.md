@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a President Graduate Fellow in the Information Systems Technology and Design pillar at the Singapore University of Technology and Design (SUTD) under the supervision of Professor [Aditya Mathur](https://www.cs.purdue.edu/people/faculty/apm.html), Professor [Jianying Zhou](http://jianying.space/). I am also part of iTrust, centre for research in cyber security, where I have been involving in multiple Cyber Physical Systems (CPS) security projects.
+I am a President Graduate Fellow in the Information Systems Technology and Design pillar at the Singapore University of Technology and Design (SUTD) under the supervision of Professor [Aditya Mathur](https://www.cs.purdue.edu/people/faculty/apm.html), Professor [Jianying Zhou](http://jianying.space/). I am also part of [iTrust](https://itrust.sutd.edu.sg/), centre for research in cyber security, where I have been involving in multiple Cyber Physical Systems (CPS) security projects.
 I got an opportunity to work with Professor [Eunsuk Kang](https://www.isri.cmu.edu/people/core-faculty/kang-eunsuk.html) and Professor [David Garlan](https://www.cs.cmu.edu/~garlan/) in the School of Computer Science at Carnegie Mellon University (CMU) during my Ph.D. exchange program. During my stay at CMU, I was associated with [CyLab](https://www.cylab.cmu.edu/) and [ABLE](https://www.cs.cmu.edu/~able/). I received a Masters in Computer Science and Engineering from National Institute of Technology. 
 
 Research Overview
@@ -20,20 +20,22 @@ My research interests are in the security of Cyber Physical Systems (CPS), Indus
 
 <!-- ### <span style="color:red"> Looking for: </span> -->
 
+
+
+Awards:
+======
+
+	* Singapore National Blockchain Challenge Gold medalaward for ‘BlockOps’ in 2019.
+	* ASEAN ICTGold medal award in research and development, 2018.
+	* Best paper award in SecCPS workshop 2017.
+	* Best student paper award in HASE 2017.
+	* Finalist of the CIPRNET Young Critis Award CYCA (European Union) 2016.
+	* President’s graduate Fellowship award (2016 to 2021.
+	* Best Teacher awardin Vignan University for 2013-14.
+
+
+
 <div class="special-class" markdown="1" style="font-size: 30px">
 	I am looking for collaborations in Cyber Physical Systems Security. 
 </div>
 
-
-### <span style="color:red"> Awards: </span>
-
-<div class="special-class" markdown="1" style="font-size: 20px">
-	* Singapore National Blockchain ChallengeGold medalaward for ‘BlockOps’ in 2019.
-	* ASEAN ICTGold medalaward in research and development, 2018.
-	* Best paperaward in SecCPS workshop 2017.
-	* Best student paperaward in HASE 2017.
-	* Finalist of the CIPRNET Young Critis Award CYCA (European Union) 2016.
-	* President’s graduate Fellowshipaward (2016 to 2021.
-	* Best Teacher awardin Vignan University for 2013-14.
-
-</div>

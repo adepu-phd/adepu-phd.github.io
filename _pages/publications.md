@@ -33,8 +33,10 @@ My research efforts have led to high impact research outputs such as patents (x3
 * Patents: [Distributed attack detection in ICS](https://patents.google.com/patent/US20200311283A1/en), [Method of detecting cyber attacks](https://patents.google.com/patent/US20200162482A1/en) and [Defense system and method against cyber-physical attacks](https://patents.google.com/patent/US20190253440A1/en).
 
 
+* Organised and participated in world unique [security exercises](https://itrust.sutd.edu.sg/ciss-2019/) in industrial systems called CISS(Critical Infrastructure Security Showdown). So far event is organised in [2016](https://itrust.sutd.edu.sg/scy-phy-systems-week/2016/s3/), [2017](https://itrust.sutd.edu.sg/scy-phy-systems-week/2017-2/s317-event/), [2019](https://itrust.sutd.edu.sg/ciss-2019/), [2020](https://itrust.sutd.edu.sg/ciss-2020-ol/).  
 
 
+* [Crossed Swords 2020](https://ccdcoe.org/news/2020/exercise-crossed-swords-2020-reached-new-levels-of-multinational-and-interdisciplinary-cooperation/): [iTrust@SUTD](https://itrust.sutd.edu.sg/news-events/news/crossed-swords-2020/) was invited to the 6th iteration of the annual cyber exercise Crossed Swords in Riga, Latvia which brought together more than 120 technical experts, Cyber Commands’ members, Special Forces operators and military police.
 
 
 Collaborations:
