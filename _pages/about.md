@@ -25,13 +25,13 @@ My research interests are in the security of Cyber Physical Systems (CPS), Indus
 Awards:
 ======
 
-	* Singapore National Blockchain Challenge Gold medalaward for ‘BlockOps’ in 2019.
-	* ASEAN ICTGold medal award in research and development, 2018.
-	* Best paper award in SecCPS workshop 2017.
-	* Best student paper award in HASE 2017.
-	* Finalist of the CIPRNET Young Critis Award CYCA (European Union) 2016.
-	* President’s graduate Fellowship award (2016 to 2021.
-	* Best Teacher awardin Vignan University for 2013-14.
+* Singapore National Blockchain Challenge Gold medalaward for ‘BlockOps’ in 2019.
+* ASEAN ICTGold medal award in research and development, 2018.
+* Best paper award in SecCPS workshop 2017.
+* Best student paper award in HASE 2017.
+* Finalist of the CIPRNET Young Critis Award CYCA (European Union) 2016.
+* President’s graduate Fellowship award (2016 to 2021.
+* Best Teacher awardin Vignan University for 2013-14.
 
 
 
