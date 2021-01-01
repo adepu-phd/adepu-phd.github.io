@@ -26,7 +26,7 @@ My research efforts have led to high impact research outputs such as patents (x3
 
 * I have involved designining innovative  curriculum  for  generating  cyber  security  leaders  through  university education. An example of this course [‘51.508’](https://istd.sutd.edu.sg/courses/mssd/secure-cyber-physical-systems/) at SUTD designed for masters student of Security by Design where I co-developed the content  and lab  experiments to  train security  professionals.
 
-* I  have designed  and organized  workshops,for  government  agencies  such  as  public  utility  boards  in Singapore on  CPS security to train them under smart nation initiative.
+* I  have designed  and organized  workshops,for  government  agencies  such  as  [public  utility  board](https://www.pub.gov.sg/)  in Singapore on  CPS security to train them under smart nation initiative.
 
 * To serve the broader research community, I have produced the first [dataset](https://itrust.sutd.edu.sg/itrust-labs_datasets/)  for  CPS  security  from  an  operational  real-time  CPS  which  is  downloaded  and  used  by  more  than  2000 researchers from more than 50 research organizations across the globe.
 
