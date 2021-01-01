@@ -18,7 +18,7 @@ You can find all of my articles on [Google Scholar](https://scholar.google.com/c
 Impact:
 ======
 
-My research efforts have led to high impact research outputs such as patents (x3, 1 pending), research publications (25+, 3x best paper awards, 900+ Citations), training deliveries (10+ to government agencies), workshops (4+) and teachings (100+ advanced students, Best Teaching Awards)
+My research efforts have led to high impact research outputs such as patents (x3, 1 pending), research publications (25+, 3x best paper awards, 900+ Citations), training deliveries (10+ to government agencies), workshops (4+) and teachings (100+ advanced students, Best Teaching Awards).
 
 
 
@@ -28,7 +28,7 @@ My research efforts have led to high impact research outputs such as patents (x3
 
 * I  have designed  and organized  workshops,for  government  agencies  such  as  [public  utility  board](https://www.pub.gov.sg/)  in Singapore on  CPS security to train them under smart nation initiative.
 
-* To serve the broader research community, I have produced the first [dataset](https://itrust.sutd.edu.sg/itrust-labs_datasets/)  for  CPS  security  from  an  operational  real-time  CPS  which  is  downloaded  and  used  by  more  than  2000 researchers from more than 50 research organizations across the globe.
+* To serve the broader research community, I have produced the first [dataset](https://itrust.sutd.edu.sg/itrust-labs_datasets/)  for  CPS  security  from  an  operational  real-time  CPS  which  is  downloaded  and  used  by  more  than  2000 researchers from more than 50 countries across the globe.
 
 * Patents: [Distributed attack detection in ICS](https://patents.google.com/patent/US20200311283A1/en), [Method of detecting cyber attacks](https://patents.google.com/patent/US20200162482A1/en) and [Defense system and method against cyber-physical attacks](https://patents.google.com/patent/US20190253440A1/en).
 
@@ -42,7 +42,7 @@ My research efforts have led to high impact research outputs such as patents (x3
 Collaborations:
 ======
 
-  I have  collaborated  with  world’s  leading  scientists  from  following universities:
+  I have  collaborated  with  world’s  leading  scientists  from  the following universities:
   
   * MIT
   * CMU

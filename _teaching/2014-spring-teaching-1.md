@@ -12,7 +12,6 @@ This course is an introduction to the fundamental principles and techniques of [
 
 Learning Objectives
 ======
-
 * Design medium-scale software system from scratch: formulating and analyzing the problem to be solved; writing formal software requirements, exploring and formulating system designs; and using extensive and systematic testing and reasoning to ensure quality.
 * Apply key software engineering ideas, including invariants, decoupling, and data abstraction.
 * Apply key software engineering ideas, including software design, specification, abstraction, verification and correctness.

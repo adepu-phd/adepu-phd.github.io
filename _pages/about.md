@@ -31,12 +31,12 @@ Awards:
 * <b>Best student paper</b> award in HASE 2017.
 * <b>Finalist of the CIPRNET Young Critis</b> Award CYCA (European Union) 2016.
 * <b>President’s Graduate Fellowship</b> award (2016 to 2021).
-* Best Teacher awardin Vignan University for 2013-14.
+* Best Teacher award in Vignan University for 2013-14.
 
 
 
 
-<div class="special-class" markdown="1" style="font-size: 40px">
+<!-- <div class="special-class" markdown="1" style="font-size: 40px">
 	I am looking for collaborations in Cyber Physical Systems Security. 
 </div>
-
+ -->

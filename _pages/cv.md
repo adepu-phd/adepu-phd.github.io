@@ -11,27 +11,27 @@ redirect_from:
 
 You can find full CV [here](https://adepu-phd.github.io/files/paper3.pdf):
 
-Education
+Education:
 ======
 * Ph.D in Information Systems Technology and Design, Singapore University of Technology and Design
 * M.Tech. in Computer Science and Engineering, National Institute of Technology
 * B.Tech. in Computer Science and Engineering, Kakatiya University
 
 
-Work experience
+Work Experience:
 ======
-* July 2019 to Jan 2020: Visiting PhD student 
-  * Carnegie Mellon University
+* July 2019 to Jan 2020: <b>Visiting PhD student </b>
+  * <b>Carnegie Mellon University </b>
   * Duties included: Conducting Research on formal methods to CPS security
-  * Supervisor: Professor Eunsuk Kang and Professor David Garlan
+  * Supervisor: Professor [Eunsuk Kang](https://www.isri.cmu.edu/people/core-faculty/kang-eunsuk.html) and Professor [David Garlan](https://www.cs.cmu.edu/~garlan/)
 
-*  September 2016 to Jan 2021: Teaching Assistant 
+*  September 2016 to Jan 2021: <b>Teaching Assistant </b>
     * Information Systems Technology and Design@SUTD
     * 50.002 Computation Structures: Sept - Dec 2017.
     * 50.003 Elements of Software Construction: Jan - April 2018.
-    * 50.577 Cyber Physical Systems Seucrity: Jan - April 2018, 2019, 2020.
+    * 50.577 <b>Cyber Physical Systems Seucrity</b>: Jan - April 2018, 2019, 2020.
 
-* February 2015 to August 2016: Research Assistant
+* February 2015 to August 2016: <b>Research Assistant</b>
     * iTrust, Centre for Research in Cyber Security, SUTD
     * Supervisor: Professor Aditya P Mathur
     * Developing attack models and attack detection methods for cyber-physical systems.
@@ -39,7 +39,7 @@ Work experience
 communicate with testbeds, writing research grants, working with various government
 agencies in Singapore towards the critical infrastructure protection.
 
-* June 2013 - September 2014: Lecturer
+* June 2013 - September 2014: <b>Lecturer</b>
     * Vignan University, India
     * Courses taught: Data Structures, Theory of Computation, Cyber Security. 
 
@@ -66,7 +66,7 @@ Skills
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Teaching
+Teaching:
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -74,7 +74,7 @@ Teaching
 
 
   
-Service and leadership
+Service and Leadership:
 ======
 * Reviewer (Journals):
   *  IEEE Sensors Journal (2020 to Present)
@@ -97,14 +97,16 @@ Service and leadership
   * Sub-Reviewer: CPSS 2020; ACNS 2019, 2020; AsiaCCS 2018,2019, 2020; ESORICS 2018,2019;
 SBES 2017; HASE 2017; COMPSAC 2016; CPS-SPC 2016,2018,2019; SG-CRC 2016.
 
-* MS Thesis Supervised:
+MS Thesis Supervised:
+======
   * Nataraj Subramaniam Sathyarajan, titled “Damage Control in Industrial Control Systems" MSSD 2020
   * Dheenadhayalan Rathinasamy, titled “Online Extension and Performance Study of TABOR: A Machine Learning Model for Anomaly Detection in Industrial Control Systems” MSSD 2020
   * Sai Sidharth Patlolla (Missouri university of Science and Technology, USA), 2017
   * Muhammad Azmi Umer (DHA Suffa University), 2016
  
 
-* Supervised Undergraduate Student Internships:
+Undergraduate Student Internships Supervision:
+======
   * Madhumitha Balaji (SUTD)
   * Aung Maw (Yangon Technological University)
   * Marcus Tan (SUTD)
