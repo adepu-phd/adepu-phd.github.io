@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find full CV [here](https://adepu-phd.github.io/files/paper3.pdf):
+
 
 Education:
 ======
@@ -93,7 +93,6 @@ Service and Leadership:
   *  Elsevier, Computers &Security (From 2017 to Present)
 
 * Reviewer (Conferences):
-
   * Sub-Reviewer: CPSS 2020; ACNS 2019, 2020; AsiaCCS 2018,2019, 2020; ESORICS 2018,2019;
 SBES 2017; HASE 2017; COMPSAC 2016; CPS-SPC 2016,2018,2019; SG-CRC 2016.
 
@@ -123,3 +122,6 @@ Undergraduate Student Internships Supervision:
   * Thae Eain San (University of Newcastle)
   * Siddhant Shrivastava (BITS India)
 
+
+
+You can find my full CV in PDF [here](https://adepu-phd.github.io/files/paper3.pdf).

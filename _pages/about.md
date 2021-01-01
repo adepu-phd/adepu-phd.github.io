@@ -31,7 +31,7 @@ Awards:
 * <b>Best student paper</b> award in HASE 2017.
 * <b>Finalist of the CIPRNET Young Critis</b> Award CYCA (European Union) 2016.
 * <b>President’s Graduate Fellowship</b> award (2016 to 2021).
-* Best Teacher award in Vignan University for 2013-14.
+* <b>Best Teacher</b> award in Vignan University for 2013-14.
 
 
 

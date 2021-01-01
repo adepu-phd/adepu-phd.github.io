@@ -8,7 +8,7 @@ date: 2018-01-18
 location: "Singapore"
 ---
 
-This course is an introduction to the fundamental principles and techniques of [software construction](https://istd.sutd.edu.sg/undergraduate/courses/50003-elements-of-software-construction) that have greatest impact on practice. Topics include capturing the essence of a problem by recognizing and inventing suitable abstractions; key paradigms, including basic concepts of software design and their expression using notations from Unified Modeling Language (UML); software testing, automated software test generation, automated software security testing via blackbox, greybox and whitebox fuzzing approaches, detection and removal of software code smells, software coding standards to avoid security loopholes, concurrent programming, including programming with threads and processes, understanding concurrency problems like deadlock and data race. This course includes exercises in software design, implementation, testing and reasoning.
+This course is an introduction to the fundamental principles and techniques of [software construction](https://istd.sutd.edu.sg/undergraduate/courses/50003-elements-of-software-construction) that have greatest impact on practice. Topics include basic concepts of software design, software testing, automated software test generation, automated software security testing via blackbox, greybox and whitebox fuzzing approaches. 
 
 Learning Objectives
 ======
