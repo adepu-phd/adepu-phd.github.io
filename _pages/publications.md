@@ -17,3 +17,7 @@ You can find all of my articles on [Google Scholar](https://scholar.google.com/c
 
 Impact:
 ======
+
+My research efforts have led to high impact research outputs such as patents (x3, 1 pending), research publications (25+, 3x best paper awards, 900+ Citations), training deliveries (10+ to government agencies), workshops (4+) and teachings (100+ advanced students, Best Teaching Awards)
+
+* Patents: [Distributed attack detection in ICS](https://patents.google.com/patent/US20200311283A1/en), [Method of detecting cyber attacks](https://patents.google.com/patent/US20200162482A1/en) and [Defense system and method against cyber-physical attacks](https://patents.google.com/patent/US20190253440A1/en).
