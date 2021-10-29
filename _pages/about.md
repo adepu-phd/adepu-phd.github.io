@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-I am a President Graduate Fellow in the Information Systems Technology and Design pillar at the Singapore University of Technology and Design (SUTD) under the supervision of Professor [Aditya Mathur](https://www.cs.purdue.edu/people/faculty/apm.html), Professor [Jianying Zhou](http://jianying.space/). I am also part of [iTrust](https://itrust.sutd.edu.sg/), centre for research in cyber security, where I have been involving in multiple Cyber Physical Systems (CPS) security projects.
-I got an opportunity to work with Professor [Eunsuk Kang](https://www.isri.cmu.edu/people/core-faculty/kang-eunsuk.html) and Professor [David Garlan](https://www.cs.cmu.edu/~garlan/) in the School of Computer Science at Carnegie Mellon University (CMU) during my Ph.D. exchange program. During my stay at CMU, I was associated with [CyLab](https://www.cylab.cmu.edu/) and [ABLE](https://www.cs.cmu.edu/~able/). I received a Masters in Computer Science and Engineering from National Institute of Technology. 
+I am a Lecturer in Cyber Physical Systems Security in Computer Science at [University of Bristol](https://www.bristol.ac.uk/). I was a Postdoctoral researcher at [Advanced Digital Sciences Center (ADSC)(affiliated to UIUC)](https://adsc.illinois.edu/).  I was a President Graduate Fellow in the Information Systems Technology and Design pillar at the Singapore University of Technology and Design (SUTD) under the supervision of Professor [Aditya Mathur](https://www.cs.purdue.edu/people/faculty/apm.html) and Professor [Jianying Zhou](http://jianying.space/). I am also part of [iTrust](https://itrust.sutd.edu.sg/), centre for research in cyber security, where I have been involving in multiple Cyber Physical Systems (CPS) security projects. 
+I was a visiting researcher and got an opportunity to work with Professor [Eunsuk Kang](https://www.isri.cmu.edu/people/core-faculty/kang-eunsuk.html) and Professor [David Garlan](https://www.cs.cmu.edu/~garlan/) in the School of Computer Science at Carnegie Mellon University (CMU). During my stay at CMU, I was associated with [CyLab](https://www.cylab.cmu.edu/) and [ABLE](https://www.cs.cmu.edu/~able/). I received a Masters in Computer Science and Engineering from National Institute of Technology. 
 
 Research Overview
 ======
@@ -24,7 +24,7 @@ My research interests are in the security of Cyber Physical Systems (CPS), Indus
 
 Awards:
 ======
-
+* Awarded the CIPRNET Young CRITIS Award CYCA 2021. 
 * Singapore National Blockchain Challenge <b> Gold medal</b> award for ‘BlockOps’ in 2019.
 * ASEAN ICT <b> Gold medal</b> award in research and development, 2018.
 * <b>Best paper </b> award in SecCPS workshop 2017.
@@ -36,7 +36,7 @@ Awards:
 
 
 
-<!-- <div class="special-class" markdown="1" style="font-size: 40px">
+ <div class="special-class" markdown="1" style="font-size: 40px">
 	I am looking for collaborations in Cyber Physical Systems Security. 
 </div>
- -->
+ 
