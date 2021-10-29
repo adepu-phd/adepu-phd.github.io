@@ -44,7 +44,7 @@ Awards:
 ### <span style="color:crimson"> News: </span>
 
 <div class="special-class" markdown="1" style="font-size: 30px">
-	- We are organizing AIoTS Workshop with ACNS 2022, consider submitting your research work [https://mujeebch.github.io/aiots2022/].
+	- We are organizing [AIoTS Workshop](https://mujeebch.github.io/aiots2022/) with ACNS 2022, consider submitting your research work.
 	- Best Paper Award and the CIPRNET Young CRITIS Award CYCA 2021.
 	- Joined University of Bristol as a Lecturer in Cyber Physical Systems Security.
 </div>
