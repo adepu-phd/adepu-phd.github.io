@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sridhar Adepu"
   avatar           : "profile.png"
-  bio              : "I am a computer science researcher with an interest in cyber security. My research is particularly focused on Cyber Physical Systems (CPS) security."
-  location         : "Singapore"
+  bio              : "I am a Lecturer in computer science with an interest in cyber security. My research is particularly focused on Cyber Physical Systems (CPS) security."
+  location         : "Bristol, United Kingdom"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sSAQkAgAAAAJ&hl=en"
-  email            : adepu_sridhar@mymail.sutd.edu.sg
+  email            : sridhar dot adepu at bristol dot ac dot uk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
