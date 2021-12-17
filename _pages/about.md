@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+### <span style="color:red"> OPENINGS: We have multiple PhD studentships in Cyber Physical Systems Security. Interested candidates contact me at sridhar dot adepu at bristol dot ac dot uk. </span>
+<!-- <p>
+OPENINGS: We have multiple PhD studentships in Cyber Physical Systems Security. Interested candidates contact me at sridhar dot adepu at bristol dot ac dot uk.
+======
+</p> -->
 
 I am a Lecturer in Cyber Physical Systems Security in Computer Science at [University of Bristol](https://www.bristol.ac.uk/). I am a core member of the [Bristol Cyber Security Group](https://www.bristol.ac.uk/engineering/research/cyber-security/) and part of the [MSc infrastructure security](http://www.bristol.ac.uk/study/postgraduate/2022/eng/msc-cyber-security-infrastructures-security/) programme. I also lectures and supervise PhD students at [EPSRC Centre for Doctoral Training in Cyber Security](https://www.bristol.ac.uk/cdt/cyber-security/). I was a Postdoctoral researcher at [Advanced Digital Sciences Center (ADSC)(affiliated to UIUC)](https://adsc.illinois.edu/).  I was a President Graduate Fellow in the Information Systems Technology and Design pillar at the Singapore University of Technology and Design (SUTD) under the supervision of Professor [Aditya Mathur](https://www.cs.purdue.edu/people/faculty/apm.html) and Professor [Jianying Zhou](http://jianying.space/). I am also part of [iTrust](https://itrust.sutd.edu.sg/), centre for research in cyber security, where I have been involving in multiple Cyber Physical Systems (CPS) security projects. 
 I was a visiting researcher and got an opportunity to work with Professor [Eunsuk Kang](https://www.isri.cmu.edu/people/core-faculty/kang-eunsuk.html) and Professor [David Garlan](https://www.cs.cmu.edu/~garlan/) in the School of Computer Science at Carnegie Mellon University (CMU). During my stay at CMU, I was associated with [CyLab](https://www.cylab.cmu.edu/) and [ABLE](https://www.cs.cmu.edu/~able/). I received a Masters in Computer Science and Engineering from National Institute of Technology. 
