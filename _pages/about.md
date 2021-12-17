@@ -1,3 +1,6 @@
+OPENINGS: We have multiple PhD students in Cyber Physical Systems Security. Interested candidates contact me at sridhar dot adepu at bristol dot ac dot uk.
+======
+
 ---
 permalink: /
 title: "Biography"
@@ -34,12 +37,11 @@ Awards:
 
 
 ### <span style="color:red"> Studentships: </span>
-
-<div class="special-class" markdown="1" style="font-size: 30px">
+<p>
 	I am looking for PhD students and Postdoctoral Fellows with an interest in security and privacy 
 	related to Cyber Physical Systems, Industrial Internet of Things.  Send me an email with your CV at: 
 	 sridhar dot adepu aT bristol dot ac dot uk.
-</div>
+</p>
 
 ### <span style="color:crimson"> News: </span>
 
@@ -49,7 +51,7 @@ Awards:
 	- Joined University of Bristol as a Lecturer in Cyber Physical Systems Security.
 </div>
 
- <div class="special-class" markdown="1" style="font-size: 40px">
+ <p style="color:red;font-size:15">
 	I am looking for collaborations in Cyber Physical Systems Security. 
-</div>
+</p>
  
