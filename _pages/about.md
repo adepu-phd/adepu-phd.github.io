@@ -29,7 +29,7 @@ My research interests are in the security of Cyber Physical Systems (CPS), Indus
 
 Awards:
 ======
-* Best Paper award in the 19th ACM ASIACCS2024.
+* Best Paper award in the 19th ACM ASIACCS2024.
 * Awarded <b>NCSC RITICS</b> Fellowship 2023-2024.
 * University of Bristol Research Fellowship 2023.
 * Awarded the CIPRNET Young CRITIS Award CYCA 2021. 
