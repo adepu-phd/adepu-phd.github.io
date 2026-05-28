@@ -149,4 +149,4 @@ Undergraduate Student Internships Supervision:
 
 
 
-You can find my full CV in PDF [here](https://adepu-phd.github.io/files/paper3.pdf).
+You can find my full CV in PDF [here](https://adepu-phd.github.io/files/CV.pdf).
