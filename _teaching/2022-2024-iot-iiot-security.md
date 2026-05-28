@@ -1,5 +1,5 @@
 ---
-title: "IoT and IIoT Security"
+title: "COMSM0119 IoT and IIoT Security"
 collection: teaching
 type: "MSc Module"
 permalink: /teaching/2022-2024-iot-iiot-security
