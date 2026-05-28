@@ -1,8 +1,8 @@
 ---
-layout: page
-title: Startups & Commercialisation
-author_profile: true
+layout: archive
+title: "Startups & Commercialisation"
 permalink: /startups/
+author_profile: true
 ---
 
 # Startups & Industry Translation
