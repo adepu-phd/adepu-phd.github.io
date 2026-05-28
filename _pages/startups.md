@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Startups & Commercialisation
+author_profile: true
 permalink: /startups/
 ---
 
