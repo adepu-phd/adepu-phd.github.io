@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sridhar Adepu"
   avatar           : "profile.png"
-  bio              : "Lecturer|University of Bristol|Cyber Physical Systems (CPS) Security"
-  location         : "Bristol, United Kingdom"
+  bio              : "Associate Professor|Swansea University|Cyber Physical Systems (CPS) Security"
+  location         : "United Kingdom"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sSAQkAgAAAAJ&hl=en"
-  email            : sridhar dot adepu at bristol dot ac dot uk
+  email            : sridhar dot adepu at swansea dot ac dot uk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
