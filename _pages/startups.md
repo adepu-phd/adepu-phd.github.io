@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Startups & Commercialisation"
 permalink: /startups/
 author_profile: true
 ---
