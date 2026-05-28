@@ -1,5 +1,5 @@
 ---
-title: "Security of Industrial Control Systems"
+title: "COMSM0120 : Security of Industrial Control Systems"
 collection: teaching
 type: "MSc Module"
 permalink: /teaching/2022-2024-security-industrial-control-systems
