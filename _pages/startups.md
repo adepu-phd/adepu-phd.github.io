@@ -3,8 +3,9 @@ layout: archive
 permalink: /startups/
 author_profile: true
 ---
-
+<!--
 # Startups & Industry Translation
+--->
 
 I possess a proven track record in the deep-tech **"lab-to-market" pipeline** through two research-led Critical National Infrastructure (CNI) startups. My work bridges fundamental academic research and practical industry tools, transforming complex AI-driven security theories into fully commercialised, operationally deployed platforms that strengthen national resilience and generate economic value.
 
@@ -16,10 +17,10 @@ I possess a proven track record in the deep-tech **"lab-to-market" pipeline** th
 
 ---
 
-## 🚀 Venture Portfolios
+## Venture Portfolios
 
 ### **Founder & Chief Scientist** | ILLUSIONIQ Limited
-*January 2024 – Present | (70% FTE)*  
+*January 2024 – Present *  
 * **Mission:** Architected an advanced cyber security startup protecting Cyber-Physical Systems (CPS) through cutting-edge AI-enabled cyber deception technology.
 * **Fundraising & Strategic Investment:** 
   * Won **£500,000** in competitive investment funding by demonstrating high-fidelity threat detection capabilities.
@@ -30,7 +31,7 @@ I possess a proven track record in the deep-tech **"lab-to-market" pipeline** th
 * **Leadership & Influence:** Managed a multi-disciplinary team of 10 security engineers, AI developers, and researchers. Served as a primary industry spokesperson at major venues including *Utility Week Future Networks Conference*, *Bristol Tech Festival*, and *London Tech Festival*.
 
 ### **Head of Research** | Reperion (now Cequra)
-*June 2022 – December 2023 | (40% FTE)*  
+*June 2022 – December 2023 *  
 * **Mission:** Spearheaded R&D to advance security products for mobile industrial assets from conceptual deep-tech research to **TRL 8 and TRL 9** (fully commercialised and operationally deployed).
 * **Technical Product Engineering:** Guided production-ready solutions focusing on Position Integrity (GNSS/navigation security), IT/OT Network Integrity, and Digital Asset Integrity for maritime and land assets using resilient communication protocols.
 * **Detection & Triage:** Engineered autonomous, real-time detection systems to monitor and respond to converged cyber-physical threats across sea, land, and air platforms.
