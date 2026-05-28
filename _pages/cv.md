@@ -13,13 +13,26 @@ redirect_from:
 
 Education:
 ======
-* Ph.D in Information Systems Technology and Design, Singapore University of Technology and Design
+* Ph.D in Information Systems Technology and Design, Singapore University of Technology and Design (Established in collaboration with MIT)
 * M.Tech. in Computer Science and Engineering, National Institute of Technology
-* B.Tech. in Computer Science and Engineering, Kakatiya University
+
 
 
 Work Experience:
 ======
+* February 2025 to Present: <b> Associate Professor</b>
+  * <b>Swansea University</b>
+  * Teaching: IT-Security, Forensics & Cryptography and Security Vulnerabilities & Penetration Testing.
+  * Research: Leading multiple Cyber-Physical Systems Security research projects funded by UKRI.
+  * Research Associates: Dr. Sarad Vnugopalan and Dr. Dipojjwal Ray
+  * Mentoring undergraduate and master students. 
+
+* September 2021 to February 2025: <b> Assistant Professor</b>
+  * <b> University of Bristol</b>
+  * Teaching: 1. Computer Systems (Introduction to Operating Systems and Security) (UG Module); 2. Resilient Socio-technical Infrastructures (PhD CDT module); 3. Security of Industrial Control Systems (MSc module); 4. IoT and IIoT Security (MSc Module)
+  * PhD Co-Supervision: 1. Feras Shahbi on "Forensics in Industrial Control Systems"; 2. Manolis Samanis on "Adaptive Security for Critical Infrastructure"; 3. Marios Samanis on "Resilient industrial control systems"; 4. Jacob Williams on "Threat Intelligence Pipelines in IT/OT Convergent Networks".
+  * UG and MSc Supervision: Supervised 9 students every year for their thesis in cyber security.
+    
 * July 2019 to Jan 2020: <b>Visiting PhD student </b>
   * <b>Carnegie Mellon University </b>
   * Duties included: Conducting Research on formal methods to CPS security
@@ -92,9 +105,21 @@ Service and Leadership:
   *  Elsevier, International journal of critical infrastructure protection (2018 to Present)
   *  Elsevier, Computers &Security (From 2017 to Present)
 
-* Reviewer (Conferences):
-  * Sub-Reviewer: CPSS 2020; ACNS 2019, 2020; AsiaCCS 2018,2019, 2020; ESORICS 2018,2019;
-SBES 2017; HASE 2017; COMPSAC 2016; CPS-SPC 2016,2018,2019; SG-CRC 2016.
+
+* Conference/Workshop Chair:
+  * Programme Committee Chair at International Workshop on Impact of IT/OT Convergence on the Resilience of Critical Infrastructures (IOCRCI) 2024 and 2025.
+  * Programme Committee Chair at 2024 IEEE CSRWorkshop on Security, Privacy and Resilience of Critical Assets in Critical Infrastructure (SPARC), in London
+  * Organised National level event on Digital Twins for CNI security with NCSC/RITICS, Feb 2024 in London.
+  * Publicity chair at 19th International Conference on Security& Privacy in Communication Networks (Securecomm 2023), in Hong Kong.
+  * Publicity chair at AIoTS workshop at the 21st International Conference on Applied Cryptography and Network Security 2023, in Japan.
+  * Publicity chair at Security of Electric Vehicle Charging (SecEVC) workshop at 15th IEEE International Conference on Smart Grid Communications (SmartGridComm 2022), in Singapore.
+  * Guest Editor in “Privacy-Enhancing Authentication and Computation for human CPS and IOT" Security and Communication Networks Journal, 2022.
+  * Programme Committee Chair for the Artificial Intelligence and Industrial Internet-of-Things Security (AIoTS) workshop at ACNS2022.
+  * Local organising chair for InternationalWorkshop on Artificial Intelligence and Industrial Internet-of-Things Security (AIoTS), 2019 (Colombia), 2020 (Italy).
+  * Local organising chair for International Workshop on Security issues in Cyber Physical Systems (SecCPS) 2017(Singapore), 2019 (Hangzhou, China).
+  * Member of the researchers technical committee in SCy - Phy week 2015, 2016.
+ <!--  * Sub-Reviewer: CPSS 2020; ACNS 2019, 2020; AsiaCCS 2018,2019, 2020; ESORICS 2018,2019;
+SBES 2017; HASE 2017; COMPSAC 2016; CPS-SPC 2016,2018,2019; SG-CRC 2016. </ul> -->
 
 MS Thesis Supervised:
 ======
