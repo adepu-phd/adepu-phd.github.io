@@ -24,13 +24,15 @@ Work Experience:
   * <b>Swansea University</b>
   * Teaching: IT-Security, Forensics & Cryptography and Security Vulnerabilities & Penetration Testing.
   * Research: Leading multiple Cyber-Physical Systems Security research projects funded by UKRI.
-  * Research Associates: Dr. Sarad Vnugopalan and Dr. Dipojjwal Ray
+  * Postdoctoral Researchers: Dr. Sarad Venugopalan and Dr. Dipojjwal Ray
   * Mentoring undergraduate and master students. 
 
 * September 2021 to February 2025: <b> Assistant Professor</b>
   * <b> University of Bristol</b>
   * Teaching: 1. Computer Systems (Introduction to Operating Systems and Security) (UG Module); 2. Resilient Socio-technical Infrastructures (PhD CDT module); 3. Security of Industrial Control Systems (MSc module); 4. IoT and IIoT Security (MSc Module)
   * PhD Co-Supervision: 1. Feras Shahbi on "Forensics in Industrial Control Systems"; 2. Manolis Samanis on "Adaptive Security for Critical Infrastructure"; 3. Marios Samanis on "Resilient industrial control systems"; 4. Jacob Williams on "Threat Intelligence Pipelines in IT/OT Convergent Networks".
+  * Postdoctoral Researchers: Dr. Sarad Venugopalan, Dr. Dipojjwal Ray
+  * Research Associate: Kushagra Dixit
   * UG and MSc Supervision: Supervised 9 students every year for their thesis in cyber security.
  
 * May 2021 - August 2021: <b>Postdoctoral Researcher</b>
