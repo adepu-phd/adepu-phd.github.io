@@ -10,21 +10,21 @@ author_profile: true
 I possess a proven track record in the deep-tech **"lab-to-market" pipeline** through two research-led Critical National Infrastructure (CNI) startups. My work bridges fundamental academic research and practical industry tools, transforming complex AI-driven security theories into fully commercialised, operationally deployed platforms that strengthen national resilience and generate economic value.
 
 > ### 📊 Commercialisation Impact At A Glance
-> * **Funding Secured:** £550,000+ in private VC investment and competitive Innovate UK grants.
+> * **Funding Secured:** Private VC investment and competitive Innovate UK grants.
 > * **Technology Readiness:** Successfully steered deep-tech research from concept to TRL 8 and TRL 9.
-> * **Team Leadership:** Built and scaled multi-disciplinary engineering and research teams up to 10 FTE.
-> * **Core Expertise:** Cyber-Physical Systems (CPS), OT-IT integration, maritime/land mobile asset security, and AI-enabled cyber deception.
+> * **Team Leadership:** Built and scaled multi-disciplinary research, engineering and cyber security and business teams up to 10 FTE.
+> * **Core Expertise:** Security of AI integrated Cyber-Physical Systems, OT-IT integration, Maritime/land/air mobile asset security, and AI-enabled cyber deception.
 
 ---
 
-## Venture Portfolios
+## Research Ventures
 
 ### **Founder & Chief Scientist** | ILLUSIONIQ Limited
 *January 2024 – Present *  
 * **Mission:** Architected an advanced cyber security startup protecting Cyber-Physical Systems (CPS) through cutting-edge AI-enabled cyber deception technology.
 * **Fundraising & Strategic Investment:** 
-  * Won **£500,000** in competitive investment funding by demonstrating high-fidelity threat detection capabilities.
-  * Secured **£50,000** in UKRI-Innovate UK funding to scale project scoping.
+  * Won the competitive investment funding by demonstrating high-fidelity AI-enabled deception capabilities.
+  * Secured UKRI-Innovate UK funding to scale project scoping.
   * Spearhead ongoing growth capital discussions with institutional investors and government bodies.
 * **Technology Translation & Product Development:** Led the transition of complex academic research into a commercial SaaS platform. Directed the development of PLC/SCADA decoys, OT-IT integrations, and automated threat identification mapped to the MITRE ATT&CK framework.
 * **Business Development & Client Relations:** Orchestrated strategic entry into Critical National Infrastructure organisations (energy, water, manufacturing), successfully onboarding businesses and generating active revenue.
