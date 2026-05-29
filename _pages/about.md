@@ -36,14 +36,14 @@ My research takes a multidisciplinary approach to tackle the security issues ass
 
 Awards:
 ======
-* Best Paper award in the 19th ACM ASIACCS2024.
+* **Best Paper** award in the 19th ACM ASIACCS2024.
 * Awarded <b>NCSC RITICS</b> Fellowship 2023-2024.
 * University of Bristol Research Fellowship 2023.
 * Awarded the CIPRNET Young CRITIS Award CYCA 2021. 
 * Singapore National Blockchain Challenge <b> Gold medal</b> award for ‘BlockOps’ in 2019.
 * ASEAN ICT <b> Gold medal</b> award in research and development, 2018.
 * <b>Best paper </b> award in SecCPS workshop 2017.
-* <b>Best student paper</b> award in HASE 2017.
+* <b>Best paper</b> award in HASE 2017.
 * <b>Finalist of the CIPRNET Young Critis</b> Award CYCA (European Union) 2016.
 * <b>President’s Graduate Fellowship</b> award (2016 to 2021).
 * <b>Best Teacher</b> award in Vignan University for 2013-14.
