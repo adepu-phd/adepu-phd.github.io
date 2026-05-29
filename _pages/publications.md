@@ -109,3 +109,4 @@ Collaborations:
   * Imperial
   * Bath
   * Newcastle
+  * SUTD
