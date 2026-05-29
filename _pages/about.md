@@ -32,6 +32,7 @@ My research takes a multidisciplinary approach to tackle the security issues ass
 
 
 <!-- ### <span style="color:red"> Looking for: </span> -->
+<!--
 ## Core Cyber-Physical Artificial Intelligence (CPAI) & Resilience Pillars
 
 This research framework targets Cyber-Physical Artificial Intelligence (CPAI), establishing rigorous methodologies to secure the deployment, integration, and operational lifecycle of machine learning models across critical physical assets.
@@ -41,9 +42,7 @@ This research framework targets Cyber-Physical Artificial Intelligence (CPAI), e
 * **AI-Driven Digital Twins:** Utilizing applied deep neural networks to build continuous behavioral twins of infrastructure to catch multi-stage attacks, focusing on securing these high-fidelity virtual replicas against adversarial model-poisoning and parameter hijacking.
 * **Resilient Digital Twin Syncing:** Auditing and securing state-synchronisation pipelines between physical infrastructure and digital twins against continuous data injection, delay, and replication tampering exploits to ensure reliable real-time tracking.
 * **Edge-Native CPAI Triage:** Deploying resource-constrained, decentralized machine learning models directly on edge gateways, focusing on securing these localized architectures to autonomously detect, contain, and recover from zero-day cyber-attacks without dependent cloud links.
-* **Embodied AI & Robotic OT Security:** Securing the operational deployment of Embodied AI by developing safety & security integrated models, and adaptive anomaly response models for mobile robotic nodes and automated guided vehicles (AGVs) operating in adversarial spaces.
-
-<!--* **Embodied AI & Robotic OT Security:** Developing lightweight, hardware-enforced secure boot verification pipelines and adaptive anomaly response models for mobile robotic nodes and automated guided vehicles (AGVs) operating in adversarial spaces.-->
+* **Embodied AI & Robotic OT Security:** Securing the operational deployment of Embodied AI by developing safety & security integrated models, and adaptive anomaly response models for mobile robotic nodes and automated guided vehicles (AGVs) operating in adversarial spaces. --> 
 
 
 
