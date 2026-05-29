@@ -12,7 +12,7 @@ I possess a proven track record in the deep-tech **"lab-to-market" pipeline** th
 > ### 📊 Commercialisation Impact At A Glance
 > * **Funding Secured:** Private VC investment and competitive Innovate UK grants.
 > * **Technology Readiness:** Successfully steered deep-tech research from concept to TRL 8 and TRL 9.
-> * **Team Leadership:** Built and scaled multi-disciplinary research, engineering and cyber security and business teams up to 10 FTE.
+> * **Team Leadership:** Built and scaled multi-disciplinary research, engineering and cyber security and business teams up to 10 members.
 > * **Core Expertise:** Security of AI integrated Cyber-Physical Systems, OT-IT integration, Maritime/land/air mobile asset security, and AI-enabled cyber deception.
 
 ---
