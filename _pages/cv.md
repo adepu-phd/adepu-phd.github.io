@@ -13,7 +13,7 @@ redirect_from:
 
 Education:
 ======
-* Ph.D in Information Systems Technology and Design, Singapore University of Technology and Design **(Established in collaboration with MIT)**
+* Ph.D in Information Systems Technology and Design, Singapore University of Technology and Design _(Established in collaboration with MIT)_
 * M.Tech. in Computer Science and Engineering, National Institute of Technology
 
 
@@ -126,8 +126,19 @@ Service and Leadership:
  <!--  * Sub-Reviewer: CPSS 2020; ACNS 2019, 2020; AsiaCCS 2018,2019, 2020; ESORICS 2018,2019;
 SBES 2017; HASE 2017; COMPSAC 2016; CPS-SPC 2016,2018,2019; SG-CRC 2016. </ul> -->
 
+PhD Thesis Supervised:
+======
+1. Feras Shahbi on “Forensics in Industrial Control Systems”.
+2. Manolis Samanis on “Adaptive Security for Critical Infrastructure”.
+3. Marios Samanis on “Resilient industrial control systems”.
+4. Jacob Williams on “Threat Intelligence Pipelines in IT/OT Convergent Networks”.
+
 MS Thesis Supervised:
 ======
+In Swansea: Supervised five students in 2025 and 2026 in CPS security.
+In Bristol: Every year from 2021 to 2024 five/six MSc projects supervised in CPS security from MSc data science and MSc cyber security. 
+
+In SUTD:
   * Nataraj Subramaniam Sathyarajan, titled “Damage Control in Industrial Control Systems" MSSD 2020
   * Dheenadhayalan Rathinasamy, titled “Online Extension and Performance Study of TABOR: A Machine Learning Model for Anomaly Detection in Industrial Control Systems” MSSD 2020
   * Sai Sidharth Patlolla (Missouri university of Science and Technology, USA), 2017
@@ -136,6 +147,10 @@ MS Thesis Supervised:
 
 Undergraduate Student Internships Supervision:
 ======
+In Swansea: Supervised 2 students in 2025 and 2026 in CPS security.
+In Bristol: Every year from 2021 to 2024 two/three MSc projects supervised in CPS security from the MSc cyber security. 
+
+In SUTD:
   * Madhumitha Balaji (SUTD)
   * Aung Maw (Yangon Technological University)
   * Marcus Tan (SUTD)
