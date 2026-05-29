@@ -7,7 +7,7 @@ author_profile: true
 # Startups & Industry Translation
 --->
 
-I possess a proven track record in the deep-tech **"lab-to-market" pipeline** through two research-led Critical National Infrastructure (CNI) startups. My work bridges fundamental academic research and practical industry tools, transforming complex AI-driven security theories into fully commercialised, operationally deployed platforms that strengthen national resilience and generate economic value.
+I possess a proven track record in the deep-tech **"lab-to-market" pipeline** through two research-led Cyber-Physical Systems (CPS) security startups. My work bridges fundamental academic research and practical industry tools, transforming complex AI-driven security theories into fully commercialised, operationally deployed platforms that strengthen national resilience and generate economic value.
 
 > ### 📊 Commercialisation Impact At A Glance
 > * **Funding Secured:** Private VC investment and competitive Innovate UK grants.
