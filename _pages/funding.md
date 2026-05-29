@@ -27,21 +27,21 @@ competitive UK funding landscape represents a major institutional milestone. The
 * **Role:** Co-Principal Investigator (Leading Cyber Security Research)
 * **Timeline:** 2023 – 2028
 * **Partners:** Over 35 partners including Department for the Economy (NI), Department for Energy Security & Net Zero (DESNZ), Ofgem, National Grid, Siemens, Toshiba, Jacobs UK, RITICS, Wales & West Utilities, and Northern Powergrid.
-* **Description:** The single energy networks hub funded in the entire UK via a highly competitive stream (Success Rate: ~3%). Focuses on protecting the interconnected cyber-physical interfaces of next-generation net-zero energy distribution networks.
+* **Description:** The single energy networks hub funded in the entire UK via a highly competitive stream. Focuses on protecting the interconnected cyber-physical interfaces of next-generation net-zero energy distribution networks.
 * **Impact:** Advances Green Plan 2030 initiatives, shapes active Ofgem regulatory security policies against systemic grid disruption, and builds deep human capital by driving Early Career Researcher (ECR) growth in cross-industrial workshops.
 
 ### 2. EPSRC / DSTL RESICS: Resilience and Safety to Attacks in ICS and CPS
 * **Role:** Lead Principal Investigator (Bristol / Swansea)
 * **Timeline:** 2023 – 2026
-* **Partners:** Imperial College London, Adelard, Siemens, Airbus, Thales, and Carnegie Mellon University (CMU, USA).
-* **Description:** Jointly funded by the Defence Science and Technology Laboratory (DSTL) as one of only three selected projects nationwide (Success Rate: ~5%). Evaluates combined data-driven and model-driven security verification structures.
+* **Partners:** Imperial College London, Adelard, Siemens, Airbus, and Carnegie Mellon University (CMU, USA).
+* **Description:** Jointly funded by the Defence Science and Technology Laboratory (DSTL) as one of only three selected projects nationwide. Evaluates combined data-driven and model-driven security verification structures.
 * **Impact:** Embeds resilience-by-design principles into critical automated systems, bridging security protections and physical safety rules into toolsets for automated systems globally.
 
 ### 3. Innovate UK Knowledge Transfer Partnership (KTP)
 * **Role:** Principal Investigator (with Synoptix Ltd)
 * **Timeline:** 2023 – 2026
 * **Description:** An industry-impactful partnership leveraging applied machine learning and artificial intelligence to design system digital twins optimized for real-time cyber-attack anomaly detection.
-* **Impact:** Accelerated the launch of an independent enterprise cyber security group within Synoptix (expanding to 7 specialized staff) running TRL 7/8 tools. The collaborative output catalyzed an expanded £2M UKRI-EPSRC maritime autonomous systems resilience initiative.
+* **Impact:** Accelerated the launch of an independent enterprise cyber security group within Synoptix (expanding to 7 specialized staff). The collaborative output catalyzed an expanded £2M UKRI-EPSRC maritime autonomous systems resilience initiative.
 
 ### 4. Principal Investigator, NCSC RITICS Fellowship
 * **Role:** Fellow & Principal Investigator
@@ -53,7 +53,7 @@ competitive UK funding landscape represents a major institutional milestone. The
 * **Role:** Principal Investigator
 * **Timeline:** 2025 – 2026
 * **Partners:** SEMI-USA, Techworks UK, Bavarian Chip Alliance, Applied Materials, ASML, Tokyo Electronics, and NCSC RITICS.
-* **Description:** A highly selective transatlantic initiative (Success Rate: ~7%) evaluating deep security trust constraints inside semiconductor production loops and global chip supply networks.
+* **Description:** A highly selective transatlantic initiative evaluating deep security trust constraints inside semiconductor production loops and global chip supply networks.
 * **Impact:** Built a unified global validation framework across 32 international manufacturers, decreasing compliance overheads, minimizing questionnaire fatigue, and directly aligning with long-term Research, Innovation, and Enterprise (RIE) supply chain targets.
 
 ---
