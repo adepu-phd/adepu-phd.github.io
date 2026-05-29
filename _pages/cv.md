@@ -138,6 +138,7 @@ PhD Thesis Supervised:
 MS Thesis Supervised:
 ======
 In Swansea: Supervised five students in 2025 and 2026 in CPS security.
+
 In Bristol: Every year from 2021 to 2024 five/six MSc projects supervised in CPS security from MSc data science and MSc cyber security. 
 
 In SUTD:
@@ -150,6 +151,7 @@ In SUTD:
 Undergraduate Student Internships Supervision:
 ======
 In Swansea: Supervised 2 students in 2025 and 2026 in CPS security.
+
 In Bristol: Every year from 2021 to 2024 two/three MSc projects supervised in CPS security from the MSc cyber security. 
 
 In SUTD:
