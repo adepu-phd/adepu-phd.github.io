@@ -27,7 +27,8 @@ My research focuses on cyber resilience for Cyber-Physical Artificial Intelligen
 ***Keywords: Cyber-Physical AI Resilience, Cyber-Physical Systems Security, Embodied AI Security, Industrial Control Systems Security, Critical Information Infrastructure (CII) and Operational Technology (OT) security***
 
 <!--
-My research interests are in the security of Cyber Physical Systems (CPS), Industrial Control Systems and Critical Infrastructure. My research investigates  the  [cyber  physical  attack  models](https://ieeexplore.ieee.org/abstract/document/7552024), [impact  of  attacks](https://ieeexplore.ieee.org/abstract/document/7423145), [detection](https://ieeexplore.ieee.org/abstract/document/8486707) and  mitigation on CPS.-->  My research takes a multidisciplinary approach to tackle the security issues associated with CPAI and excelled in applying cyber security, formal methods, and AI fundamentals for advancing CPAI resilience for greater impacts.
+My research interests are in the security of Cyber Physical Systems (CPS), Industrial Control Systems and Critical Infrastructure. My research investigates  the  [cyber  physical  attack  models](https://ieeexplore.ieee.org/abstract/document/7552024), [impact  of  attacks](https://ieeexplore.ieee.org/abstract/document/7423145), [detection](https://ieeexplore.ieee.org/abstract/document/8486707) and  mitigation on CPS.-->  
+My research takes a multidisciplinary approach to tackle the security issues associated with CPAI and excelled in applying cyber security, AI, and formal methods fundamentals for advancing CPAI resilience for greater impacts.
 
 
 <!-- ### <span style="color:red"> Looking for: </span> -->
