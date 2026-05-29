@@ -168,5 +168,5 @@ In SUTD:
   * Siddhant Shrivastava (BITS India)
 
 
-
-You can find my full CV in PDF [here](https://adepu-phd.github.io/files/CV.pdf).
+<!--
+You can find my full CV in PDF [here](https://adepu-phd.github.io/files/CV.pdf).-->
