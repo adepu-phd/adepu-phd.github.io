@@ -59,7 +59,7 @@ Work Experience:
 communicate with testbeds, writing research grants, working with various government
 agencies in Singapore towards the critical infrastructure protection.
 
-* June 2013 - September 2014: <b>Lecturer</b>
+* June 2013 - September 2014: <b>Instructor</b>
     * Vignan University, India
     * Courses taught: Data Structures, Theory of Computation, Cyber Security. 
 
