@@ -47,6 +47,14 @@ Impact:
 
 My research efforts have led to high impact research outputs such as patents (x3), research publications (70+, 5x best paper awards, 4000+ Citations), training deliveries (15+ to government agencies), workshops (10+) and teachings (300+ advanced students, Best Teaching Awards).
 
+<style>
+  ul li {
+    margin-bottom: 2px;  /* Decreases the space between different bullets */
+    padding-bottom: 0px; 
+    line-height: 1.35;   /* Tightens the text lines inside a single bullet */
+  }
+</style>
+
 * Security Assurance of Semiconductor Manufacturing (SASM) project (funded by EPSRC-UK) helped audit and assurance processes in the
 semiconductor industry across the globe, and we engaged more than 32 global companies for this work. [SEMI](https://www.semi.org/en/industry-groups/semiconductor-cybersecurity) is publishing our work as a policy in the global semiconductor ecosystem.
 
@@ -57,11 +65,14 @@ Security) programme. I also led the Resilient Infrastructures unit in the interd
 
 * Invited to give a keynote at Cybersecurity Education and Research Conference (CERC), Kuwait by British Embassy, 2023 and 2024.
 
-* I was awarded [NCSC RITICS](https://www.ncsc.gov.uk/blog-post/ritics-securing-cyber-physical-systems) fellowship as thought leader in the UK within the CPS security.
+* I was awarded [NCSC RITICS](https://www.ncsc.gov.uk/blog-post/ritics-securing-cyber-physical-systems) fellowship as thought leader in the UK within the CPS security. This project has shaped national policy by providing critical insights to government agencies and policy makers. A key outcome is the [NCSC blog](https://www.ncsc.gov.uk/blog-post/digital-twins-secure-design-development) post on Digital Twins: secure design and development, establishing foundational [security guidance](https://www.dataguidance.com/news/uk-ncsc-publishes-blog-secure-design-and-development) for the sector. The work has catalysed national initiatives for Critical National Infrastructure (CNI), notably the Transit Hub initiative, which employs 50 million digital twins to enhance sustainable transportation. By
+integrating security-by-design into policy and practice, the fellowship strengthens research infrastructure and human capital, ensuring the safe, sustainable adoption of Smart Nation technologies while addressing vital national security needs through global thought leadership.
 
 * Actively involved in **research led startups** in CPS security; 1) Head of research in Reperion, Singapore based maritime security startup where we designed, developed and deployed asset scanning tools and attack detection monitors in real-world ships with clients. 2) Founder & Chied Scientist at ILLUSIONIQ, delivering a cutting edge deception platform for CNI security that anticipate and neutralise emerging threats. We raised investments to grow team size to 9 members for the product development and maintenance. Apart from the successful client side deployments, we also secured an InnovateUK funding to further advance the deception technology into offshore energy systems.
 
-* Beyond Publications. My work places strong emphasis on industry translation and real-world impact, ensuring that research outcomes are valued by industry and contribute directly to the wider economy. This is exemplified by collaborative projects with Synoptix, where research on cyber attack detection has been translated into deployable capabilities for operational systems. These efforts demonstrate how fundamental research can evolve into practical tools adopted by industry, strengthening national resilience while creating economic value. Our work helped Synoptix to build a five-member team in cyber security which is an example of job creation. 
+* **Beyond Publications**. My work places strong emphasis on industry translation and real-world impact, ensuring that research outcomes are valued by industry and contribute directly to the wider economy. This is exemplified by collaborative projects with Synoptix, where research on cyber attack detection has been translated into deployable capabilities for operational systems. These efforts demonstrate how fundamental research can evolve into practical tools adopted by industry, strengthening national resilience while creating economic value. Our work helped Synoptix to build a seven-member team in cyber security which is an example of job creation. The project focused on AI-driven cyber attack detection in water systems. This 27-month initiative has been a
+catalyst for growth, enabling Synoptix to launch its own dedicated cyber security group and expand its staff to 7 employees in cyber security. The output of the project is in TRL 7 and 8. Beyond organizational, business and commercial growth, the project has achieved significant academic and practical impact, with findings published in two research
+articles and presented at high-profile venues such as NCSC RITICS and BSides conferences. Building on the success of this project, the Synoptix team is diversifying its expertise by targeting the maritime cyber security sector where Synoptix contributing 50% in the 2 million project (remaining 50% contrinuted by UKRI-EPSRC). This ongoing expansion reflects a successful bridge between academic research and industrial innovation to broader commercial and maritime autonomous platforms resilience.
 
 * I actively engage with policy and standards discussions, including work related to EV charging infrastructure security, ensuring research insights inform regulatory and strategic decision-making.
 
