@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
 
-A summary of competitive research grants, program hubs, and industrial innovation fellowships totaling over **£13.8M** in total project funding. Securing this grant within the highly
-competitive UK funding landscape represents a major institutional milestone. The scale and selectivity of this award demonstrate a level of research leadership and peer validation.
+A summary of competitive research grants, program hubs, and industrial innovation fellowships totaling over **£13.8M** in total project funding. _Securing this grant within the highly
+competitive UK funding landscape represents a major institutional milestone. The scale and selectivity of this award demonstrate a level of research leadership._
 
 ---
 
@@ -19,7 +19,7 @@ competitive UK funding landscape represents a major institutional milestone. The
 * **Role:** Co-Investigator (Co-leading 1 of 4 core Work Packages)
 * **Timeline:** 2024 – 2029
 * **Partners:** University of Oxford, Lancaster University, Airbus, British Telecom (BT), Vodafone, HP, and NCSC.
-* **Description:** A highly competitive UK Programme Grant (Success Rate: ~3%) focusing on the security of ultra-large-scale infrastructures (e.g., Smart Cities, Industry 4.0). Shifting focus from traditional "security-by-design" to securing systems that may already be compromised, integrating cyber security, HCI, and threat analytics.
+* **Description:** A highly competitive UK Programme Grant focusing on the security of ultra-large-scale infrastructures (e.g., Smart Cities, Industry 4.0). Shifting focus from traditional "security-by-design" to securing systems that may already be compromised, integrating cyber security, HCI, and threat analytics.
 * **Impact:** Transforms national security frameworks by providing a scalable blueprint for Smart Nation resilience and the commercialisation of trusted global digital architectures within the aerospace and urban sectors.
 -->
 
