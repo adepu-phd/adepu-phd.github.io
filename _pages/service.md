@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-* Conference/Workshop Chair:
+* **Conference/Workshop Chair**:
   * Programme Committee Chair at International Workshop on Impact of IT/OT Convergence on the Resilience of Critical Infrastructures (IOCRCI) 2024 and 2025.
   * Programme Committee Chair at 2024 IEEE CSRWorkshop on Security, Privacy and Resilience of Critical Assets in Critical Infrastructure (SPARC), in London
   * Organised National level event on Digital Twins for CNI security with NCSC/RITICS, Feb 2024 in London.
@@ -20,7 +20,7 @@ author_profile: true
  <!--  * Sub-Reviewer: CPSS 2020; ACNS 2019, 2020; AsiaCCS 2018,2019, 2020; ESORICS 2018,2019;
 SBES 2017; HASE 2017; COMPSAC 2016; CPS-SPC 2016,2018,2019; SG-CRC 2016. </ul> -->
 
-* Conference/Workshop reviewer:
+* **Conference/Workshop reviewer**:
   * AI for Secure and Trustworthy Critical Infrastructure Systems, AI4TCI 2026.
   * Workshop on CPS \& IoT Security and Privacy (CPSIoTSec) at ACM CCS 2022, 2023, 2024, 2025, 2026.
   * ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems (EnergySP) 2024, 2025, 2026
@@ -30,7 +30,7 @@ SBES 2017; HASE 2017; COMPSAC 2016; CPS-SPC 2016,2018,2019; SG-CRC 2016. </ul> -
   * 17th International Conference on Network and System Security 2023.
 
 
-* Reviewer (Journals):
+* **Reviewer (Journals):**
   *  IEEE Sensors Journal (2020 to Present)
   *  ACM, Transactions on Cyber-Physical Systems (2020 to Present)
   *  IEEE Transactions on Information Forensics and Security (2019 to Present)
