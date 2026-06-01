@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications and Impact"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
