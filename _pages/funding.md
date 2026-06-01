@@ -8,8 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-A summary of competitive research grants, program hubs, and industrial innovation fellowships totaling over **£13.8M** in total project funding. _Securing this grant within the highly
-competitive UK funding landscape represents a major institutional milestone. The scale and selectivity of this award demonstrate a level of research leadership._
+A summary of competitive research grants, program hubs, and industrial innovation fellowships totaling over **£13.8M** in total project funding. _Securing these grants within the highly competitive UK funding landscape represents a major institutional milestone. The scale and selectivity of this award demonstrate a level of research leadership._
 
 ---
 
