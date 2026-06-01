@@ -52,7 +52,7 @@ I have  collaborated  with  world’s  leading  scientists  from  Acadmia, Gover
 
 **Government:** UK's National Cyber Security Centre, Department of Energy, Department for Science Innovation and Technology, Bavarian Chip Alliance (Germany), Department for the Economy (NI), Energy Systems catapult.
 
-**Industry:** British Telecom, HP, Vodafone, Airbus, Siemens, Qinetiq, Thales, BAE, Northern PowerGrid, National Grid, Toshiba, Tokyo Electronics, ASML, and Applied Materials, SEMI-USA, Synoptix, BAM, Wessex Water, EDF Energy.
+**Industry:** British Telecom, HP, Vodafone, Airbus, Siemens, Qinetiq, Thales, BAE, Northern PowerGrid, National Grid, Toshiba, Tokyo Electronics, ASML, and Applied Materials, SEMI-USA, Synoptix, BAM, Wessex Water, EDF Energy, and SEMI-USA.
 
 **Singapore collaborations:** Singapore's PUB, Ensign, Power Automation, ST engineering, A*STAR, Flotech, Attila Cybertech, KPMG. 
 
