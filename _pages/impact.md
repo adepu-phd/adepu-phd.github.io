@@ -5,7 +5,7 @@ permalink: /impact/
 author_profile: true
 ---
 
-My research efforts have led to high impact research outputs such as patents (x3), research publications (70+, 5x best paper awards, 4000+ Citations), training deliveries (15+ to government agencies), workshops (10+) and teachings (300+ advanced students, Best Teaching Awards).
+My research efforts have led to high impact research outputs such as patents (x3), research publications (60+, 5x best paper awards, 4000+ Citations), training deliveries (15+ to government agencies), workshops (10+) and teachings (300+ advanced students, Best Teaching Awards).
 
 <style>
   ul li {
