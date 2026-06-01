@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Professional Service"
+permalink: /service/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+
 Service and Leadership:
 ======
 
