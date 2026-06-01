@@ -41,6 +41,7 @@ Selected publications are below:
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
 <!--
 Impact:
 ======
