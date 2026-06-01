@@ -20,7 +20,7 @@ Education:
 
 Work Experience:
 ======
-* February 2025 to Present: <b> Associate Professor</b>
+* February 2025 to Present: <b> Associate Professor</b> (Tenured)
   * <b>Swansea University</b>
   * Teaching: IT-Security, Forensics & Cryptography and Security Vulnerabilities & Penetration Testing.
   * Research: Leading multiple Cyber-Physical Systems Security research projects funded by UKRI.
