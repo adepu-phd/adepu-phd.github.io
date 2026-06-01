@@ -5,9 +5,6 @@ author_profile: true
 ---
 
 
-Service and Leadership:
-======
-
 * Conference/Workshop Chair:
   * Programme Committee Chair at International Workshop on Impact of IT/OT Convergence on the Resilience of Critical Infrastructures (IOCRCI) 2024 and 2025.
   * Programme Committee Chair at 2024 IEEE CSRWorkshop on Security, Privacy and Resilience of Critical Assets in Critical Infrastructure (SPARC), in London
