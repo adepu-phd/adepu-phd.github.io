@@ -95,7 +95,7 @@ Teaching:
   -->
 
 
-PhD Thesis Supervised:
+PhD Thesis Co-Supervised:
 ======
 1. Feras Shahbi on “Forensics in Industrial Control Systems”.
 2. Manolis Samanis on “Adaptive Security for Critical Infrastructure”.
