@@ -30,7 +30,7 @@ SBES 2017; HASE 2017; COMPSAC 2016; CPS-SPC 2016,2018,2019; SG-CRC 2016. </ul> -
   * 17th International Conference on Network and System Security 2023.
 
 
-* **Reviewer (Journals):**
+* **Journals Reviewer:**
   *  IEEE Sensors Journal (2020 to Present)
   *  ACM, Transactions on Cyber-Physical Systems (2020 to Present)
   *  IEEE Transactions on Information Forensics and Security (2019 to Present)
