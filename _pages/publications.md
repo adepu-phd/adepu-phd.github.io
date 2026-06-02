@@ -43,7 +43,6 @@ Selected publications are below:
 {% endfor %}
 
 <br>
-<br>
  
 
 Collaborations:
